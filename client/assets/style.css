@@ -1,0 +1,12 @@
+img {
+    border-radius: 50%;
+    position: absolute;
+    right: 2%;
+    top: 1%;
+    max-width: 60px;
+}
+
+#fileInput,
+button {
+    display: none;
+}
