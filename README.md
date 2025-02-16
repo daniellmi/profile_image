@@ -4,7 +4,7 @@ This project allows users to upload profile images to a server, with the images 
 
 The backend is built using Node.js, Sequelize for database interaction, and Multer for handling image uploads.
 
-Technologies Used
+Technologies Used 
 Node.js: Server-side JavaScript runtime.
 Express: Framework for building web applications.
 Sequelize: ORM for PostgreSQL.
